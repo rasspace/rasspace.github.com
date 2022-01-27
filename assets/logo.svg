@@ -1,0 +1,31 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 720" width="720" height="720">
+	<title>Новый проект</title>
+	<defs>
+		<linearGradient id="g1" x1="242.4" y1="405.2" x2="242.4" y2="312.3" gradientUnits="userSpaceOnUse">
+			<stop offset="0" stop-color="#aa84ce"/>
+			<stop offset="1" stop-color="#d8c61e"/>
+		</linearGradient>
+		<linearGradient id="g2" x1="441.9" y1="28.4" x2="441.9" y2="194.4" gradientUnits="userSpaceOnUse">
+			<stop offset="0" stop-color="#ab6fb2"/>
+			<stop offset="1" stop-color="#d8b567"/>
+		</linearGradient>
+	</defs>
+	<style>
+		tspan { white-space:pre } 
+		.s0 { fill: #000000 } 
+		.s1 { fill: #c58080 } 
+		.s2 { fill: url(#g1) } 
+		.t3 { font-size: 160px;fill: #ffffff;font-weight: 400;font-family: "DelaGothicOne-Regular", "Dela Gothic One" } 
+		.s4 { fill: url(#g2) } 
+		.s5 { fill: #cecece } 
+	</style>
+	<path id="форма 7" class="s0" d="m-190-180h1099.1v1080h-1099.1z" />
+	<path id="форма 8" class="s1" d="m316.3 340.1l-47.5 15.9l10-49.1z" />
+	<path id="форма 6" class="s2" d="m207.3 425.2c-4.5-4 8.5-26.2 29.1-49.7c20.7-23.4 41.1-39.1 45.7-35.1c4.5 4.1-8.5 26.3-29.2 49.7c-20.6 23.4-41 39.1-45.6 35.1z" />
+	<text id="RNC" style="transform: matrix(1,0,0,1,360,639)" >
+		<tspan x="-219.6" y="0" class="t3">RNC
+</tspan>
+	</text>
+	<path id="форма 2" class="s4" d="m379.9 229.4c-10.3-9.1 10.8-50 47.4-91.5c36.6-41.5 74.5-67.6 84.9-58.5c10.4 9.1-10.8 50.1-47.4 91.5c-36.6 41.5-74.5 67.7-84.9 58.5z" />
+	<path id="форма 1" class="s5" d="m434.6 129.6l37.5 33.1l-156.7 177.8l-37.6-33.1z" />
+</svg>
