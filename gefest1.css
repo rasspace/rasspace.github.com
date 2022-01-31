@@ -2,6 +2,10 @@
   font-family: "Dela Gothic One";
   src: url("assets/dela.ttf")
 }
+@font-face {
+  font-family: "Montserrat";
+  src: url("assets/mont.ttf")
+}
 
 html {
   scroll-behavior: smooth;
