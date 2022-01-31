@@ -79,7 +79,10 @@ a {
   margin-left: 0vw;
 }
 .har1img {
-  width: 30vw;
+  display: inline-block;
+  max-width: 30vw;;
+  height: auto;
+  vertical-align: middle;
 }
 .tips {
   display: grid;
@@ -122,7 +125,10 @@ a {
   margin-top: 12vw;
 }
 .reuseimg {
-  width: 30vw;
+  display: inline-block;
+  max-width: 30vw;;
+  height: auto;
+  vertical-align: middle;
 }
 .pusk {
   display: grid;
