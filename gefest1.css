@@ -79,10 +79,8 @@ a {
   margin-left: 0vw;
 }
 .har1img {
-  display: inline-block;
-  max-width: 30vw;
-  height: auto;
-  vertical-align: middle;
+  width: 30vw;
+  height: 105.6vw;
 }
 .tips {
   display: grid;
@@ -125,10 +123,8 @@ a {
   margin-top: 12vw;
 }
 .reuseimg {
-  display: inline-block;
-  max-width: 30vw;
-  height: auto;
-  vertical-align: middle;
+  width: 30vw;
+  height: 37.8vw;
 }
 .pusk {
   display: grid;
