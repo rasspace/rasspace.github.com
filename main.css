@@ -1,6 +1,6 @@
 @font-face {
   font-family: "Dela Gothic One";
-  src: url("assets/dela.ttf")
+  src: url("assets/clear.ttf")
 }
 @font-face {
   font-family: "Montserrat";
@@ -54,7 +54,21 @@ a {
 }
 .news1 {
   height: 35vw;
-  background-image: url(assets/untitled3.png);
+  background-image: url(assets/hefest.png);
+  background-size: 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+.news2 {
+  height: 35vw;
+  background-image: url(assets/eos1.png);
+  background-size: 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+.news3 {
+  height: 35vw;
+  background-image: url(assets/LANDER.png);
   background-size: 100%;
   background-repeat: no-repeat;
   background-position: center;
